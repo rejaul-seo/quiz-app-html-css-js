@@ -1,0 +1,1202 @@
+[
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-01"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-02"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-03"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-04"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-05"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-06"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-07"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-08"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-09"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-10"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-11"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-12"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-13"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-14"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-15"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-16"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-17"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-18"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-19"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-20"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-21"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-22"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-23"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-24"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-25"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-26"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-27"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-28"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-29"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-30"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-31"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-32"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-33"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-34"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-35"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-36"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-37"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-38"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-39"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-40"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-41"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-42"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-43"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-44"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-45"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-46"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-47"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-48"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-49"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-50"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-51"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-52"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-53"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-54"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-55"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-56"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-57"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-58"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-59"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-60"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-61"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-62"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-63"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-64"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-65"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-66"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-67"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-68"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-69"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-70"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-71"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-72"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-73"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-74"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-75"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-76"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-77"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-78"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-79"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-80"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-81"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-82"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-83"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-84"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-85"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-86"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-87"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-88"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-89"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-90"
+  },
+  {
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answerIndex": 0,
+    "id": "html-91"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<style>",
+      "<css>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 0,
+    "id": "html-92"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<hyper>"
+    ],
+    "answerIndex": 0,
+    "id": "html-93"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "answerIndex": 1,
+    "id": "html-94"
+  },
+  {
+    "subject": "HTML",
+    "question": "How can you make a numbered list in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<dl>"
+    ],
+    "answerIndex": 1,
+    "id": "html-95"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": [
+      "<row>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answerIndex": 1,
+    "id": "html-96"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to insert a line break in HTML?",
+    "options": [
+      "<break>",
+      "<br>",
+      "<lb>",
+      "<line>"
+    ],
+    "answerIndex": 1,
+    "id": "html-97"
+  },
+  {
+    "subject": "HTML",
+    "question": "What is the correct HTML element for inserting a background color?",
+    "options": [
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bg>yellow</bg>",
+      "<body bg='yellow'>"
+    ],
+    "answerIndex": 0,
+    "id": "html-98"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which HTML element defines the title of a document?",
+    "options": [
+      "<meta>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "answerIndex": 1,
+    "id": "html-99"
+  },
+  {
+    "subject": "HTML",
+    "question": "Which tag is used to define a standard cell in an HTML table?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "answerIndex": 0,
+    "id": "html-100"
+  }
+]

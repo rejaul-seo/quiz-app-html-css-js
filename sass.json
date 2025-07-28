@@ -1,0 +1,1202 @@
+[
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-01"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-02"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-03"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-04"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-05"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-06"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-07"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-08"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-09"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-10"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-11"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-12"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-13"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-14"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-15"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-16"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-17"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-18"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-19"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-20"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-21"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-22"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-23"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-24"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-25"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-26"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-27"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-28"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-29"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-30"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-31"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-32"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-33"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-34"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-35"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-36"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-37"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-38"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-39"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-40"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-41"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-42"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-43"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-44"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-45"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-46"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-47"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-48"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-49"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-50"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-51"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-52"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-53"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-54"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-55"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-56"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-57"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-58"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-59"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-60"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-61"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-62"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-63"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-64"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-65"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-66"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-67"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-68"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-69"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-70"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-71"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-72"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-73"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-74"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-75"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-76"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-77"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-78"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-79"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-80"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-81"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-82"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-83"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-84"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-85"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-86"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-87"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-88"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-89"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-90"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is SASS?",
+    "options": [
+      "A CSS preprocessor",
+      "A database",
+      "A server-side language",
+      "A JavaScript library"
+    ],
+    "answerIndex": 0,
+    "id": "sass-91"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which symbol is used to define a variable in SASS?",
+    "options": [
+      "$",
+      "@",
+      "#",
+      "&"
+    ],
+    "answerIndex": 0,
+    "id": "sass-92"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you nest selectors in SASS?",
+    "options": [
+      "Using indentation",
+      "Using parentheses",
+      "Using braces {}",
+      "Using @nest"
+    ],
+    "answerIndex": 2,
+    "id": "sass-93"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which of the following is a feature of SASS?",
+    "options": [
+      "Variables",
+      "Loops",
+      "Functions",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "id": "sass-94"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you import a SASS partial file?",
+    "options": [
+      "@import 'file'",
+      "@use 'file'",
+      "@load 'file'",
+      "@include 'file'"
+    ],
+    "answerIndex": 0,
+    "id": "sass-95"
+  },
+  {
+    "subject": "SASS",
+    "question": "What is the file extension for a SASS file?",
+    "options": [
+      ".sass",
+      ".scss",
+      ".css",
+      ".sass or .scss"
+    ],
+    "answerIndex": 3,
+    "id": "sass-96"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to include mixins in SASS?",
+    "options": [
+      "@include",
+      "@use",
+      "@mixin",
+      "@function"
+    ],
+    "answerIndex": 0,
+    "id": "sass-97"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which SASS feature allows you to reuse chunks of code?",
+    "options": [
+      "Mixins",
+      "Functions",
+      "Loops",
+      "Variables"
+    ],
+    "answerIndex": 0,
+    "id": "sass-98"
+  },
+  {
+    "subject": "SASS",
+    "question": "Which directive is used to define a mixin in SASS?",
+    "options": [
+      "@mixin",
+      "@include",
+      "@function",
+      "@define"
+    ],
+    "answerIndex": 0,
+    "id": "sass-99"
+  },
+  {
+    "subject": "SASS",
+    "question": "How do you perform mathematical operations in SASS?",
+    "options": [
+      "Using arithmetic operators like +, -, *, /",
+      "Using JavaScript",
+      "Using CSS3 calc()",
+      "Using custom plugins"
+    ],
+    "answerIndex": 0,
+    "id": "sass-100"
+  }
+]

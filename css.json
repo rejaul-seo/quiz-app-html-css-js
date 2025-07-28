@@ -1,0 +1,1202 @@
+[
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-01"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-02"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-03"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-04"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-05"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-06"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-07"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-08"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-09"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-10"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-11"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-12"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-13"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-14"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-15"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-16"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-17"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-18"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-19"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-20"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-21"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-22"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-23"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-24"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-25"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-26"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-27"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-28"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-29"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-30"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-31"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-32"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-33"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-34"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-35"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-36"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-37"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-38"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-39"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-40"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-41"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-42"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-43"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-44"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-45"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-46"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-47"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-48"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-49"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-50"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-51"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-52"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-53"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-54"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-55"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-56"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-57"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-58"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-59"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-60"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-61"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-62"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-63"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-64"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-65"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-66"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-67"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-68"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-69"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-70"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-71"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-72"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-73"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-74"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-75"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-76"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-77"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-78"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-79"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-80"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-81"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-82"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-83"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-84"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-85"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-86"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-87"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-88"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-89"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-90"
+  },
+  {
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "id": "css-91"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<style>",
+      "<script>",
+      "<link>"
+    ],
+    "answerIndex": 1,
+    "id": "css-92"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "id": "css-93"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you insert a comment in a CSS file?",
+    "options": [
+      "// this is a comment",
+      "' this is a comment",
+      "/* this is a comment */",
+      "<!-- this is a comment -->"
+    ],
+    "answerIndex": 2,
+    "id": "css-94"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answerIndex": 2,
+    "id": "css-95"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "text-style:capitalize",
+      "transform:capitalize",
+      "text-capitalize:true"
+    ],
+    "answerIndex": 0,
+    "id": "css-96"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "font-weight",
+      "font-family",
+      "font-style",
+      "text-style"
+    ],
+    "answerIndex": 1,
+    "id": "css-97"
+  },
+  {
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "fgcolor",
+      "text-color",
+      "color",
+      "font-color"
+    ],
+    "answerIndex": 2,
+    "id": "css-98"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      "#demo",
+      ".demo",
+      "demo",
+      "*demo"
+    ],
+    "answerIndex": 0,
+    "id": "css-99"
+  },
+  {
+    "subject": "CSS",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "*test",
+      "test"
+    ],
+    "answerIndex": 0,
+    "id": "css-100"
+  }
+]

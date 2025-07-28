@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Frontend Quiz App</title>
+  <link rel="stylesheet" href="./style.css">
+  <style>
+
+  </style>
+</head>
+<body>
+  <header class="app-header">
+    <label class="theme-toggle" aria-label="Toggle light or dark theme">
+      <span aria-hidden="true">☀️</span>
+      <input id="theme-toggle" type="checkbox" />
+      <span aria-hidden="true">🌙</span>
+    </label>
+  </header> 
+
+
+  
+  <!-- HOME / SUBJECT SELECTION -->
+  <main id="home-screen" class="wrapper wrapper--split" data-screen>
+    <div>
+      <h1>Welcome to the <br><strong>Frontend Quiz!</strong></h1>
+      <p>Pick a subject to get started.</p>
+    </div>
+    <div>
+      <ul class="subject-list" id="subject-list"></ul>
+    </div>
+  </main> 
+
+  <!-- QUIZ SCREEN -->
+  <main id="quiz-screen" class="wrapper wrapper--split" data-screen hidden>
+    <div>
+      <p class="question-number" id="question-number"></p>
+      <h2 class="question-text" id="question-text"></h2>
+      <div class="progress" aria-hidden="true"><div class="progress-inner" id="progress-bar"></div></div>
+    </div>
+    <div>
+      <div class="sr-feedback" aria-live="polite" id="sr-feedback"></div>
+      <form id="answer-form" class="answer-list" novalidate></form>
+      <button class="submit-btn" id="submit-btn" type="button" disabled>Submit answer</button>
+    </div>
+  </main> 
+
+  <!-- RESULT SCREEN -->
+  <main id="result-screen" class="wrapper wrapper--split" data-screen hidden>
+    <div>
+      <h2>Quiz complete!</h2>
+      <p>You scored:</p>
+      <p class="score-number" id="score-number">0</p>
+      <p class="score-label" id="score-label">out of 10</p>
+    </div>
+    <div class="result-actions">
+      <button class="submit-btn" id="retry-subject-btn" type="button">Retry subject</button>
+      <button class="submit-btn" id="back-home-btn" type="button">Back to subjects</button>
+    </div>
+  </main>
+
+
+<script src="./script.js"></script>
+</body>
+</html>

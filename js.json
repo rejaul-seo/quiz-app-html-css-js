@@ -1,0 +1,1202 @@
+[
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-01"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-02"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-03"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-04"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-05"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-06"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-07"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-08"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-09"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-10"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-11"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-12"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-13"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-14"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-15"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-16"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-17"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-18"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-19"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-20"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-21"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-22"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-23"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-24"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-25"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-26"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-27"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-28"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-29"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-30"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-31"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-32"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-33"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-34"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-35"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-36"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-37"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-38"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-39"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-40"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-41"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-42"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-43"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-44"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-45"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-46"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-47"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-48"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-49"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-50"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-51"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-52"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-53"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-54"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-55"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-56"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-57"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-58"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-59"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-60"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-61"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-62"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-63"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-64"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-65"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-66"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-67"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-68"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-69"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-70"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-71"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-72"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-73"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-74"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-75"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-76"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-77"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-78"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-79"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-80"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-81"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-82"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-83"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-84"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-85"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-86"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-87"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-88"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-89"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-90"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answerIndex": 2,
+    "id": "js-91"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which built-in method returns the length of the string?",
+    "options": [
+      "size()",
+      "length()",
+      "index()",
+      "length"
+    ],
+    "answerIndex": 3,
+    "id": "js-92"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "alert('Hello World');",
+      "msgBox('Hello World');"
+    ],
+    "answerIndex": 2,
+    "id": "js-93"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function:myFunction()",
+      "function myFunction()",
+      "create function myFunction()"
+    ],
+    "answerIndex": 2,
+    "id": "js-94"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "+"
+    ],
+    "answerIndex": 2,
+    "id": "js-95"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "options": [
+      "<script name='xxx.js'>",
+      "<script href='xxx.js'>",
+      "<script src='xxx.js'>",
+      "<script file='xxx.js'>"
+    ],
+    "answerIndex": 2,
+    "id": "js-96"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "Call.myFunction()"
+    ],
+    "answerIndex": 1,
+    "id": "js-97"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if (i == 5)",
+      "if i == 5 then",
+      "if i = 5"
+    ],
+    "answerIndex": 1,
+    "id": "js-98"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onmouseover",
+      "onclick"
+    ],
+    "answerIndex": 3,
+    "id": "js-99"
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "round()",
+      "rnd()"
+    ],
+    "answerIndex": 1,
+    "id": "js-100"
+  }
+]
